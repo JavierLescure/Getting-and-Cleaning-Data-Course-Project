@@ -11,7 +11,7 @@ Information about the variables
     varNames:     Final names of the cols in dataMerged and dataset2.
     varNamesRaw:  Raw names of the cols in dataMerged and dataset2
 
-Information about the summary choices you made
+Information about the summary choices I made
 
     Step 2:       Mean and Standard deviation for each measurement in dataMerged are calculated.
     Step 5:       A new tidy dataset is calculated for sumarize the original dataset (dataMerged).
